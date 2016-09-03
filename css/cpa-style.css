@@ -1,0 +1,67 @@
+form#loginform{
+    width:80%;
+}
+form#loginform input[type="text"], form#loginform input[type="password"]{
+    width:100%;
+}
+form#loginform input[type="submit"]{
+    margin-top:15px;
+}
+
+form#loginform p{
+    margin-bottom:0;
+}
+div.registration-form{
+    padding:40px;
+    background:#f7f7f7;
+}
+
+div.registration-form h2.entry-title{
+    margin:0 0 10px;
+}
+
+div.registration-form input{
+    background:white;
+    float:left;
+    width:65%;
+}
+div.registration-form label{
+    float:left;
+    width:30%;
+    margin:5px;
+    color:#4481c8;
+    line-height: 18px;
+    margin: 5px 0 0 10px;
+    font-weight:400;
+    
+}
+div.registration-form input[type="submit"]{
+    margin-bottom:0;
+    width:auto;
+}
+div.btn-norad{
+    border-radius: 0;
+}
+a.lostpswlink{
+    float:right;
+}
+
+.privatearea .privatearea_topbar{
+    padding-top: 40px;
+}
+
+ul.menu-private-area{
+    float:right;
+}
+ul.menu-private-area li a{
+    color:#4481c8;
+}
+
+ul.menu-private-area li{
+    list-style:none;
+    margin-left:10px;
+}
+
+span.hello-user{
+    float:right;
+}
